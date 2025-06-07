@@ -1,0 +1,2 @@
+# PropertyDetectionGo
+初学了一个星期golang后，做了个简单的知产检测系统
